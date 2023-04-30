@@ -2,7 +2,7 @@
 layout: iframe
 
 # the web page source
-url: http://localhost:5173/players/concurrent/false
+url: https://dmitriygrosh.github.io/react-concurrency#/players/concurrent/false
 ---
 
 ---

@@ -2,7 +2,7 @@
 layout: iframe
 
 # the web page source
-url: http://localhost:5173/urgent-non-urgent
+url: https://dmitriygrosh.github.io/react-concurrency#/urgent-non-urgent
 ---
 
 ---

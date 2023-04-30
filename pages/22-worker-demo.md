@@ -1,7 +1,7 @@
 ---
 layout: iframe
 
-url: http://localhost:5173/charts/100/fps
+url: https://dmitriygrosh.github.io/react-concurrency#/charts/100/fps
 ---
 
 ---

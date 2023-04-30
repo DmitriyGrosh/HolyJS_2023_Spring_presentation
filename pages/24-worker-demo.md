@@ -2,7 +2,7 @@
 layout: iframe
 
 # the web page source
-url: http://localhost:5173/charts/10/memory
+url: https://dmitriygrosh.github.io/react-concurrency#/charts/10/memory
 ---
 
 ---

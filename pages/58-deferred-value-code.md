@@ -2,7 +2,7 @@
 layout: iframe
 
 # the web page source
-url: http://localhost:5173/deferred
+url: https://dmitriygrosh.github.io/react-concurrency#/deferred
 ---
 
 ---
