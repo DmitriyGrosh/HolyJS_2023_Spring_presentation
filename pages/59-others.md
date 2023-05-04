@@ -7,5 +7,4 @@ css: unocss
 # А что у других ?
 
 ---
-src: ./60-angular.md
 ---

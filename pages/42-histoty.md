@@ -1,6 +1,6 @@
 ---
 layout: image
-image: './images/all-history.png'
+image: './images/history-5.png'
 ---
 
 ---

@@ -23,7 +23,7 @@ div {
 
 </style>
 
-# Что такое React Concurrency ?
+<img src="/images/mem2.png" class="m-60 h-60 rounded" />
 
 ---
 src: ./2-google-request.md

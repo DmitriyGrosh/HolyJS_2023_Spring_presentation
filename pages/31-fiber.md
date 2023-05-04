@@ -1,25 +1,8 @@
 ---
+layout: image
+image: './images/react-fiber-in-depth.png'
 ---
 
-# Что сделал Fiber ?
-
-
-<div v-click>
-    1. React выполняет работу в два основных этапа: render и commit.
-</div>
-
-<div v-click>
-    2. Результатом фазы является дерево узлов Fiber, отмеченных побочными эффектами.
-</div>
-
-<div v-click>
-    3. Работа на первом этапе render выполняется асинхронно.
-</div>
-
-<div v-click>
-    4. Напротив, следующая фаза commit всегда синхронна.
-</div>
-
 ---
-src: ./32-histoty.md
+src: ./33.1-async-demo.md
 ---
