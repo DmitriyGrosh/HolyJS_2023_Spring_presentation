@@ -18,4 +18,5 @@ export const Hydrate = () => (
 ```
 
 ---
+src: ./68-others.md
 ---
