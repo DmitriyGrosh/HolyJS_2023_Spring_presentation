@@ -4,7 +4,8 @@ class: 'text-white'
 css: unocss
 ---
 
-# А что у других ?
+# SSR с Suspense
 
 ---
+src: ./61-fetch.md
 ---
