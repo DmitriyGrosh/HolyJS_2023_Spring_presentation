@@ -1,10 +1,12 @@
 {
   "name": "slidev",
   "private": true,
+  "homepage": "https://DmitriyGrosh/HolyJS_2023_Spring_presentation.git/",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@slidev/cli": "^0.40.6",
