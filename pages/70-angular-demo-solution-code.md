@@ -3,21 +3,21 @@ layout: center
 ---
 
 ```ts {all|2|4|7|10|11-15|4|7|all}
-export class BlockedComponent implements OnInit {
-	public dataControl = new FormControl('');
+export class RxJsSolutionComponent implements OnInit {
+	public dataControl = new FormControl(null);
 	
 	public todos$ = this.control.valueChanges
 		.pipe(
 			// map(() => []),
-			switchMap((value) => this._longRequest$())
+			switchMap(() => this._longRequest$())
 		);
 
-	private _longRequest$(): Observable<any> {
+	private _longRequest$(): Observable<ITodo[]> {
 		return this._http.get('https://jsonplaceholder.typicode.com/todos')
-			.pipe(
-				tap((items) => sleep(1000)), 
+              .pipe(
+				        tap(() => sleep(1000)), 
                 map((todos) => todos),
-            );
+              );
 	}
 	
 }

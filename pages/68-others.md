@@ -9,5 +9,5 @@ css: unocss
 # А что у других ?
 
 ---
-src: ./69-angular.md
+src: ./59-signals.md
 ---

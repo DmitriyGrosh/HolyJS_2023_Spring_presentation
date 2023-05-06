@@ -6,5 +6,5 @@ url: https://dmitriygrosh.github.io/react-concurrency#/charts/1000/fps
 ---
 
 ---
-src: ./24-worker-demo.md
+src: ./26.1-worker-dom-players-demo.md
 ---

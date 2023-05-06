@@ -6,5 +6,5 @@ url: https://dmitriygrosh.github.io/react-concurrency#/deferred
 ---
 
 ---
-src: ./59-ssr.md
+src: ./68-others.md
 ---
