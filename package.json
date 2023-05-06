@@ -12,5 +12,8 @@
     "@slidev/theme-seriph": "*",
     "highcharts": "^10.3.3",
     "highcharts-vue": "^1.4.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.33.0"
   }
 }
