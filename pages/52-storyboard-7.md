@@ -4,5 +4,5 @@ image: './images/storyboard-7.png'
 ---
 
 ---
-src: ./53-concurrent-rendering-code.md
+src: ./52-storyboard-demo.md
 ---

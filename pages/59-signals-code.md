@@ -8,7 +8,7 @@ const [state, setState] = useState(0);
 // state -> value
 // setState -> setter
 
-// qwik
+// solidJs
 const [signal, setSignal] = createSignal(0);
 // signal -> getter
 // setSignal -> setter

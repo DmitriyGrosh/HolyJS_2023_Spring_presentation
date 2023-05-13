@@ -24,5 +24,5 @@ const Component = () => {
 }
 ```
 ---
-src: ./46-update.md
+src: ./45.1-deferred.md
 ---
