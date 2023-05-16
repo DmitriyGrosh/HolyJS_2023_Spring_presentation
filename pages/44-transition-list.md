@@ -1,5 +1,11 @@
+<style>
+.last-transition {
+    margin-bottom: 20px;
+}
 
-# Transition features
+</style>
+
+# Transitions
 
 <div>
     1. useTransition
@@ -9,8 +15,21 @@
     2. startTransition
 </div>
 
-<div>
+<div class="last-transition">
     3. useDeferredValue
+</div>
+
+# Other
+
+<div>
+    1. Automatic Batching
+</div>
+
+<div>
+    2. Suspense
+</div>
+<div>
+    3. Client and Server Rendering APIs
 </div>
 
 ---
