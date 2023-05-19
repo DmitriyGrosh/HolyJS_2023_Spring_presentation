@@ -2,7 +2,7 @@
 layout: center
 ---
 
-```ts {all|2|10|12|13|14|15|4-8}
+```ts {all|2|11|12|13|14|15|4-8}
 export class BlockedComponent implements OnInit {
 	public dataControl = new FormControl('');
 	

@@ -1,10 +1,26 @@
+<style>
+.first-problem {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  font-size: 2.8rem !important;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
 
-# Категории Update
-<div>
+.text {
+    font-size: 2rem !important;
+}
+</style>
+
+<h1 class="first-problem">Категории Update</h1>
+<div class="text">
     1. High priority (Urgent) Updates
 </div>
 
-<div>
+<div class="text">
     2. Low priority (Non-Urgent) Updates
 </div>
 
