@@ -4,7 +4,7 @@ class: 'text-white'
 css: unocss
 ---
 <style>
-.first-problem {
+.first-problem2 {
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
   background-size: 100%;
@@ -20,7 +20,7 @@ css: unocss
 }
 </style>
 
-<h1 class="first-problem">“Concurrent mode” -> Concurrent features</h1>
+<h1 class="first-problem2">“Concurrent mode” -> Concurrent features</h1>
 
 ---
 src: ./41-histoty.md

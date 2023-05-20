@@ -1,5 +1,5 @@
 <style>
-.first-problem {
+.first-problem { line-height: 3.5rem !important;
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
   background-size: 100%;
